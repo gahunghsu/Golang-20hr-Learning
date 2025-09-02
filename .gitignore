@@ -1,0 +1,49 @@
+# --- Go build outputs / binaries ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.a
+bin/
+build/
+dist/
+
+# --- Coverage / profiling ---
+coverage/
+*.cov
+*.cover
+*.coverprofile
+coverage.out
+profile.out
+cpu.prof
+mem.prof
+block.prof
+mutex.prof
+trace.out
+
+# --- Go workspaces (不打算共管就忽略) ---
+go.work
+go.work.sum
+
+# --- Temporary / logs ---
+*.log
+logs/
+*.tmp
+tmp/
+.cache/
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+
+# --- VS Code / JetBrains ---
+.vscode/
+.idea/
+*.iml
+
+# --- Env / secrets (如有使用) ---
+.env
+.env.*

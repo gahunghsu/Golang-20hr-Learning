@@ -12,8 +12,8 @@
 - [x] Day4 – 陣列、Slice、Map
 - [x] Day5 – 函式與 Package
 - [x] Day6 – 指標
-- [ ] Day7 – Struct 與方法
-- [ ] Day8 – Interface
+- [x] Day7 – Struct 與方法
+- [x] Day8 – Interface
 - [ ] Day9 – 錯誤處理
 - [ ] Day10 – 測試
 - [ ] Day11 – Goroutine

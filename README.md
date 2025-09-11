@@ -14,13 +14,13 @@
 - [x] Day6 – 指標
 - [x] Day7 – Struct 與方法
 - [x] Day8 – Interface
-- [ ] Day9 – 錯誤處理
-- [ ] Day10 – 測試
-- [ ] Day11 – Goroutine
-- [ ] Day12 – Channel
-- [ ] Day13 – Context
-- [ ] Day14 – 常用標準庫
-- [ ] Day15 – HTTP Server
+- [x] Day9 – 錯誤處理
+- [x] Day10 – 測試
+- [x] Day11 – Goroutine
+- [x] Day12 – Channel
+- [x] Day13 – Context
+- [x] Day14 – 常用標準庫
+- [x] Day15 – HTTP Server
 - [ ] Day16 – CLI 工具
 - [ ] Day17 – JSON 與檔案處理
 - [ ] Day18 – REST API (基礎)
